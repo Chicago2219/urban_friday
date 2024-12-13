@@ -10,3 +10,5 @@
 7. git add name_file
 8. git commit -m 'text message'
 9. git push
+
+The end
